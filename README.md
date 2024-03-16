@@ -1,10 +1,11 @@
-# A Step-By-Step Guide to creating your own assistant chatbot using OpenAI's Assistant API and React
+## Introduction
 
-View the corresponding article here: https://medium.com/@JeffyJeff/a-step-by-step-guide-to-creating-your-own-assistant-chatbot-using-openais-assistant-api-and-react-655391215c3a
+This is a basic chatbot application developed using React, TypeScript, and Material-UI (intention to update further later). It allows users to engage in text-based conversations with the chatbot to assist with development.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-A simple chatbot web application built with React, TypeScript, and Material-UI.
+## Attribution
+Originally started project with a clone of: https://github.com/JeffyJeff1980/openai-react.git
+
 
 ## Table of Contents
 
@@ -16,10 +17,6 @@ A simple chatbot web application built with React, TypeScript, and Material-UI.
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Introduction
-
-This is a basic chatbot application developed using React, TypeScript, and Material-UI. It allows users to engage in text-based conversations with the chatbot, and you can further customize it to add more advanced natural language processing capabilities or integrate it with a backend service for more complex interactions.
 
 ## Features
 
